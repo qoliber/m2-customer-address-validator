@@ -1,8 +1,13 @@
 {
     "name": "qoliber/customer-address-validator",
     "description": "Magento 2 - Customer Address Validator",
+    "source": {
+        "type": "git",
+        "url": "git@github.com:qoliber/m2-customer-address-validator.git",
+        "reference": "master"
+    },
     "homepage": "https://github.com/qoliber/m2-customer-address-validator",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "type": "magento2-module",
     "authors": [
         {
